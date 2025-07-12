@@ -1,4 +1,5 @@
 module Utils (
+  Color(..),
   clearScreen, fgcolor, bgcolor, bold, 
   enterAltScreen, exitAltScreen
 ) where

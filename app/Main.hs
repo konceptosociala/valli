@@ -13,17 +13,29 @@ newtype AppState = AppState {
 
 app :: AppM Env AppState ()
 app = do
+  enterAltScreen
+  appLoop
+
+appLoop :: AppM Env AppState ()
+appLoop = do
+  -- Acquire data
   state <- get
   env <- ask
 
   clearScreen
-  liftIO $ putStrLn $ "Counter: " ++ show (counter state)
+  liftIO $ putStrLn $ 
+    if colored env
+    then bold (fgcolor BrightRed "Counter: ") ++ fgcolor BrightGreen (show (counter state))
+    else "Counter: " ++ show (counter state)
+
   char <- liftIO getChar
   case char of
-    '+' -> modify (const AppState { counter = counter state + 1 }) >> app
-    '-' -> modify (const AppState { counter = counter state - 1 }) >> app
-    'q' -> return ()
-    _ -> app
+    '+' -> modify (const AppState { counter = counter state + 1 }) >> appLoop
+    '-' -> modify (const AppState { counter = counter state - 1 }) >> appLoop
+    'q' -> do
+      exitAltScreen
+      return ()
+    _ -> appLoop
 
 main :: IO ()
 main = do
