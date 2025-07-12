@@ -7,31 +7,8 @@
    viewBox="0 0 93.894119 26.739162"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="1.0097938"
-     inkscape:cx="31.689639"
-     inkscape:cy="176.76877"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <rect
@@ -48,8 +25,6 @@
        id="rect2" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-51.747557,-84.878723)">
     <text
@@ -59,10 +34,10 @@
        style="font-size:192px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f3f3f3;fill-opacity:1"><tspan
          x="101.62109"
          y="624.01953"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            dx="0 4.9230652 4.9230652 4.9230652 4.9230652"
            style="font-size:8px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font';fill:#000000"
-           id="tspan1">VALLI</tspan></tspan></text>
+           id="tspan2">VALLI</tspan></tspan></text>
     <path
        style="font-weight:bold;font-size:120px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font Bold';white-space:pre;fill:#e661a1;stroke-width:3.01782;stroke-linecap:round;stroke-linejoin:round"
        d="m 172.79645,336.41373 -21.78461,65.35385 h -22.89231 l -22.03077,-65.35385 h 20.98462 l 12.73846,50.46154 13.29231,-50.46154 z m 67.19983,46.52308 q 0,3.69231 0.98461,5.35385 1.04616,1.66153 3.32308,2.52307 l -4,12.8 q -5.78461,-0.55384 -9.78461,-2.52307 -3.93847,-2.03077 -6.21539,-6.09231 -3.75385,4.49231 -9.6,6.70769 -5.84615,2.15385 -11.93846,2.15385 -10.09231,0 -16.12308,-5.72308 -5.96923,-5.78462 -5.96923,-14.83077 0,-10.64615 8.30769,-16.43077 8.36923,-5.78461 23.5077,-5.78461 h 8.8 v -2.46154 q 0,-10.03077 -12.92308,-10.03077 -3.13846,0 -8.06154,0.92307 -4.92308,0.86154 -9.84615,2.52308 l -4.49231,-12.92308 q 6.33846,-2.4 13.16923,-3.63076 6.89231,-1.23077 12.30769,-1.23077 14.58462,0 21.53846,5.96923 7.01539,5.90769 7.01539,17.10769 z m -30.52308,7.01538 q 3.13846,0 6.58462,-1.84615 3.44615,-1.90769 5.23077,-5.35385 v -10.58461 h -4.8 q -8.12308,0 -11.93847,2.52308 -3.81538,2.46153 -3.81538,7.26153 0,3.75385 2.27692,5.9077 2.33846,2.0923 6.46154,2.0923 z m 83.44598,-79.50769 v 70.76923 q 0,3.93846 2.21538,5.66154 2.27693,1.66154 6.21539,1.66154 2.52308,0 4.86154,-0.55385 2.33846,-0.61538 4.36923,-1.41538 l 4.67692,12.98461 q -3.32308,1.72308 -8,3.01539 -4.67692,1.29231 -10.89231,1.29231 -11.81538,0 -17.35384,-6.76923 -5.53846,-6.83077 -5.53846,-18.27693 V 323.73681 H 254.21149 V 310.4445 Z m 73.84598,0 v 70.76923 q 0,3.93846 2.21538,5.66154 2.27692,1.66154 6.21539,1.66154 2.52307,0 4.86153,-0.55385 2.33847,-0.61538 4.36924,-1.41538 l 4.67692,12.98461 q -3.32308,1.72308 -8,3.01539 -4.67692,1.29231 -10.89231,1.29231 -11.81538,0 -17.35385,-6.76923 -5.53846,-6.83077 -5.53846,-18.27693 V 323.73681 H 328.05746 V 310.4445 Z m 67.93828,-8.24615 q 5.04616,0 8.24616,3.13846 3.2,3.13846 3.2,7.81538 0,4.67693 -3.2,7.87693 -3.2,3.13846 -8.24616,3.13846 -5.10769,0 -8.36923,-3.13846 -3.2,-3.2 -3.2,-7.87693 0,-4.67692 3.2,-7.81538 3.26154,-3.13846 8.36923,-3.13846 z m 11.75385,34.21538 v 52.06154 h 16.61538 v 13.29231 h -54.58461 v -13.29231 h 18.52307 v -38.76923 h -17.90769 v -13.29231 z"
