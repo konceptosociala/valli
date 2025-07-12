@@ -1,0 +1,52 @@
+# Cabal build output
+/dist-newstyle/
+/dist/
+/cabal.project.local
+/cabal.project.local~   
+/cabal.project.freeze
+
+# Cabal build artifacts
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+*.prof
+*.aux
+*.hp
+*.eventlog
+
+# Haskell Stack (if used in the same repo)
+/.stack-work/
+
+# Executables
+*.exe
+*.out
+*.bin
+
+# GHC environment
+.ghc.environment.*
+.ghc.environment
+
+# Mac OS and Linux metadata
+.DS_Store
+*.swp
+*~
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Nix (if used)
+/result
+/result-*
+/*.drv
+*.gcda
+*.gcno
+
+# Tags
+tags
+TAGS
+
+# Haddock docs
+doc/
+*.haddock
